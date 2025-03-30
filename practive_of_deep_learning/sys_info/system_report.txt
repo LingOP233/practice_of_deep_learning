@@ -1,0 +1,22 @@
+当前用户：lingop
+
+系统时间：2025-03-30 12:52:44
+
+磁盘使用情况：
+文件系统        大小  已用  可用 已用% 挂载点
+tmpfs           1.5G  2.6M  1.5G    1% /run
+/dev/nvme1n1p2   38G   18G   18G   51% /
+tmpfs           7.5G  117M  7.4G    2% /dev/shm
+tmpfs           5.0M  4.0K  5.0M    1% /run/lock
+efivarfs        128K   47K   77K   38% /sys/firmware/efi/efivars
+/dev/nvme1n1p6  145G   33G  105G   24% /home
+/dev/nvme0n1p1  256M  102M  155M   40% /boot/efi
+tmpfs           1.5G  164K  1.5G    1% /run/user/1000
+
+CPU负载情况：
+0.28, 0.27, 0.24
+
+内存使用情况：
+               total        used        free      shared  buff/cache   available
+内存：       14Gi       4.9Gi       3.1Gi       150Mi       6.9Gi       9.5Gi
+交换：      9.5Gi          0B       9.5Gi
