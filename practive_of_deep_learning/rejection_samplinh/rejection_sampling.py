@@ -180,7 +180,7 @@ def main():
             'proposal': {
                 'pdf':  lambda x: 1 / 30  if 0 <= x <= 30 else 0,# 均匀分布pdf
                 'sampler': lambda: np.random.uniform(0, 30),  # 确保定义了采样函数
-                'M': 1800  # 确保定义了M值
+                'M': 4.8  # 确保定义了M值
             },
             'range': (0, 30)  # 设定x_range的值
         },
